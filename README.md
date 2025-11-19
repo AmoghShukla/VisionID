@@ -2,7 +2,6 @@
 
 > **Real-time Face Detection & Analysis (Azure + Browser)**
 
-![VisionID](assets/visionid-banner.png)
 
 ---
 
@@ -160,7 +159,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ## 📬 Contact
 
 Maintained by **Amogh Shukla** — open an issue on GitHub if you want changes to this README or help integrating Azure features.
-
----
-
-*Notes: If you want this README to reference exact scripts, package versions, or code snippets from `face-detection-app/src` (for example the exact library import lines), tell me and I will extract those specific lines and insert them into the README.*
